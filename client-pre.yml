@@ -1,0 +1,4 @@
+dome:
+  name: demo-pre
+server:
+  port: 8082
